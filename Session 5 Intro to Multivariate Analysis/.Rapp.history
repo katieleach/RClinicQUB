@@ -1,0 +1,1 @@
+biplot(pca.iris, scaling = 3)
