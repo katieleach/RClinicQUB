@@ -1,0 +1,301 @@
+,bees,temp,wind,hotness,car,flowertype
+1,10,19.14045276,6,warm,micra,rose
+2,10,17.13521843,5,warm,toyota,apple
+3,11,17.90292748,7,warm,volvo,bramble
+4,12,14.99565523,4,warm,micra,plum
+5,12,15.30100114,5,warm,toyota,pear
+6,12,20.35714129,4,warm,volvo,rose
+7,13,18.41821755,5,warm,micra,apple
+8,14,19.67119497,5,warm,toyota,bramble
+9,6,20.10681032,6,warm,volvo,plum
+10,13,16.2095261,6,warm,micra,pear
+11,7,18.01114464,6,warm,toyota,rose
+12,11,19.07801054,5,warm,volvo,apple
+13,14,17.1467056,4,warm,micra,bramble
+14,13,12.96232087,6,overcast,toyota,plum
+15,11,12.21495049,5,overcast,volvo,pear
+16,12,13.84621323,4,overcast,micra,rose
+17,11,15.74878399,5,warm,toyota,apple
+18,10,19.5887781,5,warm,volvo,bramble
+19,13,14.87118844,6,warm,micra,plum
+20,12,11.52407816,5,overcast,toyota,pear
+21,15,16.31988394,3,warm,volvo,rose
+22,12,14.42119755,6,overcast,micra,apple
+23,14,23.52606832,5,hot sunny,toyota,bramble
+24,20,21.77366693,4,hot sunny,volvo,plum
+25,9,23.23387618,5,hot sunny,micra,pear
+26,9,23.45015571,5,hot sunny,toyota,rose
+27,4,20.00576308,5,warm,volvo,apple
+28,7,18.32065933,7,warm,micra,bramble
+29,11,17.61992673,5,warm,toyota,plum
+30,20,22.34884576,4,hot sunny,volvo,pear
+31,14,13.53450382,3,overcast,micra,rose
+32,9,11.86445041,4,overcast,toyota,apple
+33,17,16.71212335,4,warm,volvo,bramble
+34,12,15.2315585,6,warm,micra,plum
+35,14,17.67351411,5,warm,toyota,pear
+36,7,23.7565395,6,hot sunny,volvo,rose
+37,15,14.99679805,4,warm,micra,apple
+38,14,15.03652134,5,warm,toyota,bramble
+39,17,18.44375096,4,warm,volvo,plum
+40,11,11.73308144,6,overcast,micra,pear
+41,9,14.622744,6,warm,toyota,rose
+42,8,19.15253589,5,warm,volvo,apple
+43,14,19.90055218,5,warm,micra,bramble
+44,12,16.49200594,5,warm,toyota,plum
+45,10,12.96082592,5,overcast,volvo,pear
+46,7,24.13283464,5,hot sunny,micra,rose
+47,10,17.49042027,4,warm,toyota,apple
+48,12,16.86106404,5,warm,volvo,bramble
+49,15,18.98122267,5,warm,micra,plum
+50,19,18.69978781,5,warm,toyota,pear
+51,13,19.21956536,4,warm,volvo,rose
+52,9,17.77733372,7,warm,micra,apple
+53,13,14.39451407,4,overcast,toyota,bramble
+54,13,14.78095398,4,warm,volvo,plum
+55,16,16.29336703,5,warm,micra,pear
+56,15,18.73829575,4,warm,toyota,rose
+57,10,20.54251573,5,warm,volvo,apple
+58,16,18.14298136,4,warm,micra,bramble
+59,11,13.74013158,5,overcast,toyota,plum
+60,8,20.85664306,5,warm,volvo,pear
+61,9,17.94735842,5,warm,micra,rose
+62,12,19.36463916,6,warm,toyota,apple
+63,10,12.00716295,5,overcast,volvo,bramble
+64,15,18.68388825,5,warm,micra,plum
+65,14,19.90124791,4,warm,toyota,pear
+66,13,14.62858682,4,warm,volvo,rose
+67,11,13.23180021,7,overcast,micra,apple
+68,13,16.80652311,5,warm,toyota,bramble
+69,18,18.37357685,4,warm,volvo,plum
+70,12,15.4827272,4,warm,micra,pear
+71,13,15.68151513,6,warm,toyota,rose
+72,10,16.33895677,6,warm,volvo,apple
+73,10,14.32763015,5,overcast,micra,bramble
+74,8,15.8005165,6,warm,toyota,plum
+75,12,15.34554973,5,warm,volvo,pear
+76,5,23.10895483,4,hot sunny,micra,rose
+77,9,13.0296192,6,overcast,toyota,apple
+78,16,15.86532286,4,warm,volvo,bramble
+79,15,14.79765277,5,warm,micra,plum
+80,8,15.34734652,7,warm,toyota,pear
+81,9,14.19951621,5,overcast,volvo,rose
+82,10,16.64014947,5,warm,micra,apple
+83,11,12.73601909,4,overcast,toyota,bramble
+84,11,15.11190234,5,warm,volvo,plum
+85,10,19.5752183,5,warm,micra,pear
+86,7,17.27663729,6,warm,toyota,rose
+87,13,12.7900734,6,overcast,volvo,apple
+88,17,21.45216,4,hot sunny,micra,bramble
+89,11,11.22362345,3,overcast,toyota,plum
+90,10,20.25351969,5,warm,volvo,pear
+91,15,16.50299304,4,warm,micra,rose
+92,11,17.69739075,6,warm,toyota,apple
+93,8,21.15001519,5,hot sunny,volvo,bramble
+94,16,20.40745218,3,warm,micra,plum
+95,8,19.23851648,6,warm,toyota,pear
+96,9,18.57279086,5,warm,volvo,rose
+97,18,25.26757668,4,hot sunny,micra,apple
+98,11,15.32768249,5,warm,toyota,bramble
+99,16,17.91241119,3,warm,volvo,plum
+100,10,17.01856066,5,warm,micra,pear
+101,10,12.63812398,6,overcast,toyota,rose
+102,15,16.38836883,5,warm,volvo,apple
+103,9,18.10149346,6,warm,micra,bramble
+104,10,20.72601608,4,warm,toyota,plum
+105,15,14.81705867,3,warm,volvo,pear
+106,19,21.02188557,5,hot sunny,micra,rose
+107,16,19.97346739,3,warm,toyota,apple
+108,14,13.66804391,5,overcast,volvo,bramble
+109,10,13.90947447,4,overcast,micra,plum
+110,12,12.88577095,4,overcast,toyota,pear
+111,12,14.38902948,6,overcast,volvo,rose
+112,11,12.65308403,5,overcast,micra,apple
+113,10,19.97901474,6,warm,toyota,bramble
+114,11,14.23249732,5,overcast,volvo,plum
+115,5,17.83689487,7,warm,micra,pear
+116,14,17.18303882,8,warm,toyota,rose
+117,16,15.80772577,4,warm,volvo,apple
+118,13,21.88742866,5,hot sunny,micra,bramble
+119,14,17.74410093,6,warm,toyota,plum
+120,9,18.01373641,5,warm,volvo,pear
+121,14,17.22850315,5,warm,micra,rose
+122,14,15.67108569,3,warm,toyota,apple
+123,12,14.81359346,6,warm,volvo,bramble
+124,13,18.79013251,3,warm,micra,plum
+125,4,22.11361473,5,hot sunny,toyota,pear
+126,14,15.44209068,5,warm,volvo,rose
+127,13,16.5652627,4,warm,micra,apple
+128,15,18.22173194,6,warm,toyota,bramble
+129,18,20.41134818,3,warm,volvo,plum
+130,12,14.44659085,4,overcast,micra,pear
+131,12,14.47060685,5,warm,toyota,rose
+132,13,13.33132255,4,overcast,volvo,apple
+133,13,17.9178478,7,warm,micra,bramble
+134,14,14.11560581,4,overcast,toyota,plum
+135,2,19.6314921,6,warm,volvo,pear
+136,13,21.7635204,5,hot sunny,micra,rose
+137,16,17.33110879,3,warm,toyota,apple
+138,16,17.91987221,4,warm,volvo,bramble
+139,13,16.32541123,4,warm,micra,plum
+140,10,9.890167923,6,overcast,toyota,pear
+141,9,18.3685895,6,warm,volvo,rose
+142,15,13.27854924,4,overcast,micra,apple
+143,18,18.1004626,3,warm,toyota,bramble
+144,14,22.67552567,4,hot sunny,volvo,plum
+145,14,17.90390698,4,warm,micra,pear
+146,13,16.32207749,4,warm,toyota,rose
+147,16,19.47368761,5,warm,volvo,apple
+148,14,15.39165434,5,warm,micra,bramble
+149,13,14.57238839,5,warm,toyota,plum
+150,10,10.64005359,6,overcast,volvo,pear
+151,8,16.51203817,5,warm,micra,rose
+152,6,20.89419187,5,warm,toyota,apple
+153,11,12.55424607,5,overcast,volvo,bramble
+154,15,18.42438222,3,warm,micra,plum
+155,13,14.42682768,3,overcast,toyota,pear
+156,13,14.07989392,4,overcast,volvo,rose
+157,13,14.83805536,5,warm,micra,apple
+158,16,17.38243723,5,warm,toyota,bramble
+159,7,17.06885622,7,warm,volvo,plum
+160,10,20.49707719,6,warm,micra,pear
+161,9,15.62341119,6,warm,toyota,rose
+162,14,19.34928592,5,warm,volvo,apple
+163,15,19.06127067,5,warm,micra,bramble
+164,13,14.09399756,4,overcast,toyota,plum
+165,16,23.46827989,4,hot sunny,volvo,pear
+166,2,16.34011038,6,warm,micra,rose
+167,17,15.30710743,3,warm,toyota,apple
+168,4,20.96932051,6,warm,volvo,bramble
+169,18,19.67580866,4,warm,micra,plum
+170,14,17.11062281,6,warm,toyota,pear
+171,22,21.64007057,4,hot sunny,volvo,rose
+172,4,18.86907275,6,warm,micra,apple
+173,12,19.70944183,4,warm,toyota,bramble
+174,15,15.31846537,4,warm,volvo,plum
+175,15,18.26840069,5,warm,micra,pear
+176,18,20.19973746,4,warm,toyota,rose
+177,7,14.46695092,5,overcast,volvo,apple
+178,4,13.26837641,6,overcast,micra,bramble
+179,23,20.9542582,5,warm,toyota,plum
+180,9,15.3446932,7,warm,volvo,pear
+181,4,17.57726527,6,warm,micra,rose
+182,13,18.52738491,5,warm,toyota,apple
+183,9,12.7966002,5,overcast,volvo,bramble
+184,14,15.88980937,3,warm,micra,plum
+185,12,13.52296794,4,overcast,toyota,pear
+186,12,11.50614879,4,overcast,volvo,rose
+187,14,15.90928816,5,warm,micra,apple
+188,5,17.10268659,6,warm,toyota,bramble
+189,16,16.23746921,5,warm,volvo,plum
+190,10,19.23756154,5,warm,micra,pear
+191,8,16.36730508,7,warm,toyota,rose
+192,17,17.19547298,5,warm,volvo,apple
+193,13,14.54968186,3,warm,micra,bramble
+194,10,16.75180983,6,warm,toyota,plum
+195,14,15.11798821,6,warm,volvo,pear
+196,12,19.62250268,6,warm,micra,rose
+197,13,14.44956329,6,overcast,toyota,apple
+198,10,12.96132436,6,overcast,volvo,bramble
+199,16,14.54234105,4,warm,micra,plum
+200,14,15.29100106,5,warm,toyota,pear
+201,13,21.87778575,5,hot sunny,volvo,rose
+202,8,15.44244882,5,warm,micra,apple
+203,8,16.57388671,5,warm,toyota,bramble
+204,13,13.14659657,4,overcast,volvo,plum
+205,6,20.15271981,6,warm,micra,pear
+206,11,15.57260923,6,warm,toyota,rose
+207,10,20.98022388,5,warm,volvo,apple
+208,15,18.4708739,4,warm,micra,bramble
+209,17,18.93491001,5,warm,toyota,plum
+210,12,13.83460647,4,overcast,volvo,pear
+211,14,14.1134141,3,overcast,micra,rose
+212,11,13.95649858,6,overcast,toyota,apple
+213,7,22.35978448,6,hot sunny,volvo,bramble
+214,11,15.88039279,5,warm,micra,plum
+215,15,16.82494928,5,warm,toyota,pear
+216,17,18.57162715,4,warm,volvo,rose
+217,13,14.41169553,5,overcast,micra,apple
+218,12,16.76631914,3,warm,toyota,bramble
+219,7,17.5517815,6,warm,volvo,plum
+220,12,16.64043729,5,warm,micra,pear
+221,12,14.51793027,5,warm,toyota,rose
+222,8,14.13003253,6,overcast,volvo,apple
+223,13,15.75136378,5,warm,micra,bramble
+224,8,15.94542117,7,warm,toyota,plum
+225,10,16.17084356,6,warm,volvo,pear
+226,5,22.76739669,6,hot sunny,micra,rose
+227,14,15.41493671,4,warm,toyota,apple
+228,8,20.1916474,4,warm,volvo,bramble
+229,14,19.3604783,5,warm,micra,plum
+230,17,21.32968723,3,hot sunny,toyota,pear
+231,6,14.59419339,6,warm,volvo,rose
+232,10,23.95635065,5,hot sunny,micra,apple
+233,15,16.79948364,5,warm,toyota,bramble
+234,13,15.96441657,4,warm,volvo,plum
+235,7,18.08140349,6,warm,micra,pear
+236,15,20.7640653,4,warm,toyota,rose
+237,8,16.16956235,5,warm,volvo,apple
+238,13,15.69892965,5,warm,micra,bramble
+239,15,18.35558437,5,warm,toyota,plum
+240,12,20.22096018,5,warm,volvo,pear
+241,10,17.01528302,5,warm,micra,rose
+242,17,16.82947666,4,warm,toyota,apple
+243,9,17.43029155,6,warm,volvo,bramble
+244,12,17.40155922,5,warm,micra,plum
+245,5,22.8226401,6,hot sunny,toyota,pear
+246,8,16.13786142,5,warm,volvo,rose
+247,16,16.35921587,4,warm,micra,apple
+248,7,18.11917081,5,warm,toyota,bramble
+249,16,17.38783656,4,warm,volvo,plum
+250,14,14.07892967,4,overcast,micra,pear
+251,5,17.22095425,7,warm,toyota,rose
+252,5,15.71163534,7,warm,volvo,apple
+253,11,15.68218197,5,warm,micra,bramble
+254,13,14.61256276,6,warm,toyota,plum
+255,8,11.64022522,6,overcast,volvo,pear
+256,12,17.00463396,5,warm,micra,rose
+257,8,16.37978563,7,warm,toyota,apple
+258,11,11.26959328,4,overcast,volvo,bramble
+259,19,17.03477815,3,warm,micra,plum
+260,9,8.839705505,5,overcast,toyota,pear
+261,15,16.67676786,5,warm,volvo,rose
+262,6,14.72433039,8,warm,micra,apple
+263,15,16.91803832,5,warm,toyota,bramble
+264,15,18.19155693,3,warm,volvo,plum
+265,11,18.73020907,6,warm,micra,pear
+266,13,14.29220602,3,overcast,toyota,rose
+267,14,17.57821634,4,warm,volvo,apple
+268,0,21.90396356,7,hot sunny,micra,bramble
+269,16,16.47130291,3,warm,toyota,plum
+270,8,19.43201184,5,warm,volvo,pear
+271,12,15.56564264,6,warm,micra,rose
+272,10,12.79501918,6,overcast,toyota,apple
+273,12,17.50521034,7,warm,volvo,bramble
+274,12,14.9855831,6,warm,micra,plum
+275,11,13.86038271,5,overcast,toyota,pear
+276,12,20.71244436,5,warm,volvo,rose
+277,12,13.22220052,5,overcast,micra,apple
+278,12,15.59922393,5,warm,toyota,bramble
+279,9,13.32142254,5,overcast,volvo,plum
+280,13,18.13538314,6,warm,micra,pear
+281,13,16.77994523,4,warm,toyota,rose
+282,13,13.10001261,3,overcast,volvo,apple
+283,21,20.91146871,4,warm,micra,bramble
+284,6,14.11045513,6,overcast,toyota,plum
+285,11,18.87623451,5,warm,volvo,pear
+286,9,15.53167873,6,warm,micra,rose
+287,10,11.45872234,5,overcast,toyota,apple
+288,11,13.79245818,4,overcast,volvo,bramble
+289,13,21.97765824,5,hot sunny,micra,plum
+290,13,16.67769755,4,warm,toyota,pear
+291,12,17.61021425,5,warm,volvo,rose
+292,13,18.59514073,4,warm,micra,apple
+293,15,14.98621444,4,warm,toyota,bramble
+294,9,21.91178415,6,hot sunny,volvo,plum
+295,7,23.2143022,6,hot sunny,micra,pear
+296,13,14.38810125,5,overcast,toyota,rose
+297,6,21.08283674,5,hot sunny,volvo,apple
+298,11,19.04576736,6,warm,micra,bramble
+299,16,22.52921045,6,hot sunny,toyota,plum
+300,14,20.20377664,6,warm,volvo,pear
