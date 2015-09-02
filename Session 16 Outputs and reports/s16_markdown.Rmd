@@ -14,7 +14,7 @@ That is; you don't need to 'tell' R it is text.
 ---
 
 > Three dashes denotes a break in the text  
-> `>` creates a block quote  
+> `>` creates a block quote
 > Two spaces after a sentace starts a new line  
 
 ---
@@ -58,11 +58,13 @@ Variable 1 | Variable 2 | Variable 3
 obs 1      | obs 3      | obs 5
 obs 2      | obs 4      | obs 6
 
-We can later add 
+There are table writing functions within the `knitr` package to create different types of tables 
 
 ---
 
 > To interface with R language, we add code in 'chunks'. 
+
+Chunks can be added using the `Insert Chunk` button in the `Chunk` menu at the top right of the source window. 
 
 
 ```{r}
@@ -74,7 +76,7 @@ summary(iris)
 By adding the `echo = FALSE` parameter, R code is not added to the knitted document, only the output.  
 This can be useful for embedding plots...
 
-```{r, echo = FALSE}
+```{r}
 library(ggplot2)
 data(iris)
 p <- ggplot(iris, aes(x = Sepal.Width, y = Petal.Length)) + geom_point(aes(colour = Species)) +

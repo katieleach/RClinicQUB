@@ -61,8 +61,28 @@ jpeg('q:/corr.jpg', width=480, height=480, units='px')
 corrplot(cor.cars)
 dev.off()
 
+##########################################
+############ R Markdown ##################
+##########################################
+
+# Install and load markdown and knitr
+
+install.packages("markdown")
+install.packages("knitr")
+
+library(markdown)
+library(knitr)
 
 
+#########################
+### Shiny apps in R #####
+#########################
 
+## Create interactive web apps with your analysis, using only R language
 
+library(shiny)
+
+runExample("01_hello")
+
+## There are some great tutorials and examples of shiny apps at shiny.rstudio.com
 
