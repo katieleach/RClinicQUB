@@ -1,0 +1,98 @@
+---
+ntitle: "Markdown Snippet"
+date: "31 August 2015"
+output: html_document
+---
+
+Getting started with Markdown
+---
+---
+
+Text in markdown documents can be written in without any specific notation.   
+That is; you don't need to 'tell' R it is text.
+
+---
+
+> Three dashes denotes a break in the text  
+> `>` creates a block quote  
+> Two spaces after a sentace starts a new line  
+
+---
+
+> The hashtag (#) is used to denote size of header. E.g;
+
+## Papa bear
+#### Mama bear
+###### Baby bear
+
+---
+
+> We use asterisks to create *italics* and **bold** face
+
+---
+
+> Lists can be created using an asterisk or a number.
+
+### What's in my kitchen?
+* Pizza
+* Wine
+* Doughnuts
+
+> `+` after two tabs denotes sub-items
+ 
+1. Pizza
+    + Margherita
+    + Funghi
+2. Wine
+    + Pinot Grigio
+    + Chianti
+3. Doughnuts
+    + All the doughnuts
+ 
+---
+
+> Horizontal and vertical dashes create tables
+
+Variable 1 | Variable 2 | Variable 3
+-----------|------------|------------
+obs 1      | obs 3      | obs 5
+obs 2      | obs 4      | obs 6
+
+We can later add 
+
+---
+
+> To interface with R language, we add code in 'chunks'. 
+
+
+```{r}
+summary(iris)
+```
+
+---
+
+By adding the `echo = FALSE` parameter, R code is not added to the knitted document, only the output.  
+This can be useful for embedding plots...
+
+```{r, echo = FALSE}
+library(ggplot2)
+data(iris)
+p <- ggplot(iris, aes(x = Sepal.Width, y = Petal.Length)) + geom_point(aes(colour = Species)) +
+  geom_abline(colour = 'red') +
+  labs(title = "Sepal Width vs Petal Length")
+
+p
+```
+
+---
+
+Maybe you want to let your collaborators see all of the code you have used, and all outputs.  
+To show which packages/error distributions/ link functions or any other decisions you have made.  
+
+```{r}
+mod1 <- lm(Petal.Length ~ Petal.Width + Sepal.Length +Sepal.Width, data=iris)
+summary(mod1)
+plot(mod1)
+```
+
+> Markdown makes it easy to add comments and annotations about your analysis in the early stages of your project. 
